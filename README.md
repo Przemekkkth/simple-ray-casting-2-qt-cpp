@@ -15,3 +15,4 @@ qmake && make
 ## Addons
 * [Qt](https://www.qt.io/) - Cross-Platform software for embedded & desktop
 * [Github](https://github.com/OneLoneCoder/CommandLineFPS) - inspiration, great tutorial for ray casting
+* [Lamp image](https://opengameart.org/content/lpc-lamp-posts-rework) - opengameart
