@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/sprites/wall64.png</file>
+        <file>res/sprites/silhouette.png</file>
+        <file>res/sprites/lamp.png</file>
+        <file>res/sprites/projectile.png</file>
+    </qresource>
+</RCC>
